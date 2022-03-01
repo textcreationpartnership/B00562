@@ -1,0 +1,517 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two godlie and fruitful treatises of the foule and grosse sinne of oppression. The one taken out of the exposition vppon the fift chapter of Nehemiah, written by that worthy bishop and faithfull pastor of the church of Durham, Master Iames Pilkinton. The other published of late by Robert Some Doctor of Diuinitie.</title>
+            <author>Pilkington, James, 1520-1576.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1585</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 59 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00562</idno>
+            <idno type="STC">STC 19929.5</idno>
+            <idno type="STC">ESTC S94728</idno>
+            <idno type="EEBO-CITATION">52633330</idno>
+            <idno type="OCLC">ocm 52633330</idno>
+            <idno type="VID">174759</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00562)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174759)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2124:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two godlie and fruitful treatises of the foule and grosse sinne of oppression. The one taken out of the exposition vppon the fift chapter of Nehemiah, written by that worthy bishop and faithfull pastor of the church of Durham, Master Iames Pilkinton. The other published of late by Robert Some Doctor of Diuinitie.</title>
+                  <author>Pilkington, James, 1520-1576.</author>
+                  <author>Some, Robert, 1542-1609.</author>
+               </titleStmt>
+               <extent>[43] p.   </extent>
+               <publicationStmt>
+                  <publisher>Imprinted by Thomas Thomas Printer to the vniuersitie fo [sic] Cambridge.,</publisher>
+                  <pubPlace>[Cambridge?] :</pubPlace>
+                  <date>1585.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-B⁸, C⁴, D².</note>
+                  <note>Reproduction of original in: Trinity College (Dublin, Ireland). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Nehemiah V --  Commentaries.</term>
+               <term>Social justice --  Biblical teaching --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174759:1"/>
+            <pb facs="tcp:174759:1" rendition="simple:additions"/>
+            <p>
+               <hi>TWO</hi> GODLIE AND FRVITFVL <hi>TREA<g ref="char:EOLhyphen"/>TISES OF THE FOVLE</hi> And Groſſe ſinne of <hi>Oppreſſion.</hi>
+            </p>
+            <p>
+               <hi>THE ONE TAKEN OVT OF THE</hi> Expoſition vppon the fiſt Chapter of Nehemiah, written by that worthy Biſhop <hi>and faithfull PASTOR of the Church</hi> of Durham, Maſter <hi>IAMES PILKINTON.</hi>
+            </p>
+            <p>The other publiſhed of late by ROBERT SOME Doctor of Diuinitie.</p>
+            <q>
+               <bibl>
+                  <hi>Eccleſi. 7.9.</hi>
+               </bibl>
+               <p>Oppreſſion maketh a wiſe man madde.</p>
+            </q>
+            <p>Imprinted by Thomas Thomas Printer to the <hi>vniuerſitie fo Cambridge.</hi> 1585.</p>
+         </div>
+      </front>
+      <group>
+         <text xml:lang="eng">
+            <body>
+               <div type="treatise">
+                  <pb facs="tcp:174759:2"/>
+                  <pb n="3" facs="tcp:174759:2"/>
+                  <head>THE FORMER TREATISE AGAINST THE GROSSE SIN OF OPPRES<g ref="char:EOLhyphen"/>SION <hi>TAKEN OVT OF THE</hi> Expoſition of <hi>M. IAMES</hi> PILKINGTON vpon the 5. Chapter of Nehemiah.</head>
+                  <p n="1">1. <hi>And there was a great crie of the people made and their wiues againſt their bree<g ref="char:EOLhyphen"/>thren the Iewes.</hi>
+                  </p>
+                  <p>
+                     <seg rend="decorInit">W</seg>Hile that <hi>Nehemiah</hi> had traueiled him ſelfe weary in keping watch and ward, and ſetting the people to building the walls againe, and thought all was quiet, both within the Citie, and ſafe againſt the vtter enemie, behold, now burſteth out a new ſore, worſſe then
+<pb n="4" facs="tcp:174759:3"/>the former. <hi>The people and their wiues come with open mouth and make an outcry againſt the rich and Rulers among them, which vnmercifully had ſpoyled and oppreſſed them, in ſo much as they were not able to liue.</hi> Such is the ſtate of Gods people here in the earth,<note place="margin">hn.</note> that as our maſter Chriſt ſaith, <hi>He came to ouerthrow the workes of the deuil:</hi> ſo the deuil ceaſeth not by al meanes poſſible to ouerthrow, or at the leaſt, ſo much as in him is, to hinder by his partakers, the buil<g ref="char:EOLhyphen"/>ding of gods houſe, and the ſetting forth of his glorie. And to declare the vehemency of the crie, the holy Ghoſt noteth it by ſuch a word in the Ebrew, as ſignifieth thoſe vprores and outcries which are made in Rebellious or Se<g ref="char:EOLhyphen"/>ditious Riots, or els of ſuch as crie out for great grief and anguiſh of heart. <hi>The parties that make their crie, are the common people and women,</hi> of which it is hard to tell, whether of them is often more importune in outcrying, and many times without iuſt cauſe. The peo<g ref="char:EOLhyphen"/>ple if they ſmart a litle, &amp; haue not their owne wills fulfilled, are ready to exclaime, and wo<g ref="char:EOLhyphen"/>men can weepe and howle when they liſt, &amp; the baſeſt ſort are the worſt. <hi>The parties a<g ref="char:EOLhyphen"/>gainſt whome they crie, be the lewes their coun<g ref="char:EOLhyphen"/>trie-men,</hi> breethren in kindred, and profeſſing one religion. If this oppreſſion and cruel dea<g ref="char:EOLhyphen"/>ling had bene by ſtraungers, where no mercie is commonly ſhewed nor looked for, it would
+<pb n="5" facs="tcp:174759:3"/>haue bene leſſe marueiled at, &amp; leſſe it would haue greeued them: but to be entreated cruelly by their countriemen, kinſmen, and thoſe that ſerued the ſame God, and profeſſed the ſame Religion that they did, and at whoſe hands they looked for aid and comfort: this was thought ſo ſtraunge, that it would make anie aſtonied to heare tell of it. With theſe circumſtances the holy Ghoſt ſetteth out the greatneſſe of the cry, to make it more horrible in mens ſight, &amp; ſo the more eaſilie to bring them to repentaunce, and make them aſha<g ref="char:EOLhyphen"/>med of their cruel dealings. When the Deuill preuayled not by <hi>Sanballat</hi> and his fellowes, to ouerthrow the building, he ſetteth now on the poore common ſort and women, to crie out againſt their Rulers, thinking by theſe meanes to ouerthrow all, rather then to pro<g ref="char:EOLhyphen"/>cure anie remedie or reliefe for them: Though God of his accuſtomed goodnes (turning oft our wicked doings to the ſetting forth of his Glorie) by this meanes wrought their deliue<g ref="char:EOLhyphen"/>raunce and libertie. Such is the wiſdome of our God, that by our fooliſhnes he declareth his mightie powre, wiſdome, &amp; maieſtie: and our ill dealing ſheweth forth his iuſtice and mercie, and that againſt our wil &amp; meaning.</p>
+                  <q>
+                     <hi>2.</hi> And there were that ſaid, our ſonnss and our daughters and we are manie, there<g ref="char:EOLhyphen"/>fore
+<pb n="6" facs="tcp:174759:4"/>we muſt take Corne that we may eate and liue.</q>
+                  <p n="2">2. <hi>And there were that ſaid.</hi> The cauſe of their Crie is ſet forth in theſe 4. verſes follow<g ref="char:EOLhyphen"/>ing: <hi>Hunger, need, oppreſſion, pinching pouertie, and pining penurie,</hi> made them ſo to crie out. And this is to common a fault in our daies, in the preaching of the goſpel. Some of the poo<g ref="char:EOLhyphen"/>rer ſort, though they had not lands &amp; goods, yet God, as he vſeth commonlie, had bleſſed them more then the richer ſort with children ſo manie, that they could not tell how to get bread for them, except they ſhould ſell them as ſlaues: And where they were free borne, they ſhould now become bond, and be vſed as beaſtes. What a griefe it is to a good father, that loueth his childe deerelie, in the feare of God, to be driuen by the vnmercifull dealing of the rich to ſell his owne children for bond<g ref="char:EOLhyphen"/>men, I leaue it to the conſideratio<g ref="char:cmbAbbrStroke">̄</g> of thoſe that be naturall and louing Parents. For none can expreſſe the greatnes of that griefe, but he that hath beene pinched with it, and felt the ſmart of it. When <hi>Iacob ſhould ſend little Beniamin into Egipt with his brethren for corne,</hi> it was long ere he could be brought to it, and he allmoſt had rather died for hunger, then let him goe from him. What a loue had <hi>Dauid</hi> to ward his wic<g ref="char:EOLhyphen"/>ked ſonne <hi>Abſolon,</hi> euen in the midſt of his
+<pb n="7" facs="tcp:174759:4"/>Rebellion, and <hi>what charge gaue he to his cap<g ref="char:EOLhyphen"/>taines, that they ſhould not kill him?</hi>
+                     <note place="margin">2. <hi>Sam.</hi> 2.</note> Such is the loue of naturall Parents towards their chil<g ref="char:EOLhyphen"/>dren, that they will loue them, and cannot caſt them of, euen in their ill doings, though ma<g ref="char:EOLhyphen"/>nie times the children be moſt vnthankeful. Libertie is a thing that euerie man naturallie deſireth and by all meanes ſeeketh for, there<g ref="char:EOLhyphen"/>fore bondage muſt needs be ſuch a thing as e<g ref="char:EOLhyphen"/>uery man doeth abhorre &amp; flie from: yet <hi>hun<g ref="char:EOLhyphen"/>ger</hi> is ſuch a thing, that it will breake ſtonie walls, and rather then a man will beare it con<g ref="char:EOLhyphen"/>tinuallie, he will ſell landes, goods, wife, chil<g ref="char:EOLhyphen"/>dren, yea him-ſelfe, to be ſlaues for euer. Nay <hi>hunger</hi> is ſo pinching a paine, <hi>that a woman will eate her owne childe, as in the ſiege of Ieruſalem, in Samaria, and Saguntine;</hi> yea a man his owne fleſh, rather then he will die for hunger. <hi>Hun<g ref="char:EOLhyphen"/>ger</hi> of all thinges maie not be abidden, what in conuenience ſoeuer fall out after. Conſider then what miſerable caſe theſe poore men were in, that had ſo manie children, and could get no bread to put in their mouthes: &amp; wic<g ref="char:EOLhyphen"/>ked men, the richer ſort, were they, that had brought them to this pouerty, and now would not releeue them in this their extremitie. We read of <hi>a Biſhoppe of Mentz in Germanie called Hatto, who had great ſtore of corne &amp; would not relieue the poore with it in time of great dearth, but let the rats eate it: in reuenge of which, God
+<pb n="8" facs="tcp:174759:5"/>raiſed ſo manie Rats about him, that they droue him from houſe to houſe to ſaue his life: and where he had a ſtrong towre in the midst of the great riuer of Rhene, which yet ſtandeth there to be ſeene in the middeſt of the riuer, he thought him ſelfe ſure if he could flie thither: notwithſtanding the Rats, ſwam after him thither, and there deuoured him: and it is called the Rats towre at this daie.</hi>
+                     <note place="margin">
+                        <hi>
+                           <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ou.</hi> 11.</note> Salo<g ref="char:EOLhyphen"/>mon ſaieth, <hi>he that hideth vp his corne, ſhalbe curſed among the people, but bleſſing ſhalbe on them that ſell it.</hi> God graunt the richer ſort pitifull hearts to open their barnes and purſſe to the reliefe of the poore, that they maie eſcape Gods plague and mans curſſe.</p>
+                  <q>
+                     <p>
+                        <hi>3.</hi> And there were ſome that ſaid, our fields, and our vineyeards, and our houſes we haue laid to pledge, that we might haue Corne in this hunger.</p>
+                     <p>
+                        <hi>4.</hi> And there were ſome that ſaid: we haue boro<g ref="char:EOLhyphen"/>mwed onie of the Kings tribute vppon our landes and vineyeards</p>
+                     <p>
+                        <hi>5.</hi> And now as the fleſh of our breethren is, ſo is our fleſh: and as their children be, ſo are our children: and marke, we bring into bondage our ſonnes and our daughters as ſeruants: and there beſome of our daughters in bon<g ref="char:EOLhyphen"/>dage alreadie: and there is no powre in our hands: our lands &amp; our vineyeards are in other mens hands.</p>
+                  </q>
+                  <pb n="9" facs="tcp:174759:5"/>
+                  <p n="3">3. <hi>And there were ſome that ſayd.</hi> Thus farre goeth the crie of the pooreſt ſort: now fol<g ref="char:EOLhyphen"/>loweth another company, that crie as faſt, but they are not altogether ſo poore. They were pinched with hunger, but <hi>they had ſome lands, vineyards, and houſes to lay to pledge, that they might haue ſome corne to fill their bellies withall.</hi> Theſe men were hunger-bitten alſo: for though they had land, yet they were not able to ſtore it, nor husband it, as husbandry requi<g ref="char:EOLhyphen"/>red: and therefore had no profit by it. And like ynough they were ſuch as <hi>Aggeus</hi> the Prophet com-plained on, ſaying: <hi>that euery man buildeth for him-ſelfe faire houſes, and Gods houſe lay vn<g ref="char:EOLhyphen"/>built, and therefore God plagued them. They had ſowen much, and reaped litle, their corne wa<g ref="char:EOLhyphen"/>ſted in their Barnes, and their grapes conſumed awaie in the winepreſſe.</hi> Theſe daies were like the time of <hi>Micheas</hi> the Prophet, who crieth out againſt the Rulers for their op<g ref="char:EOLhyphen"/>preſſing of the poore ſo extreamlie, ſay<g ref="char:EOLhyphen"/>ing, <hi>they plucke of their skinnes from them,</hi>
+                     <note place="margin">Mich</note> 
+                     <hi>and their fleſh from their bones. And they eate alſo the fleſh of my people, and flay of their skinne from them, and they breake their bones, and choppe them in pieces, as for the pot, and as fleſh within the caldron.</hi>
+                  </p>
+                  <p n="4">4. <hi>And there were ſome that ſaid.</hi> Yet commeth another ſort, but they were in ſome better caſe, for they had ſome corne, and
+<pb n="10" facs="tcp:174759:6"/>no money, and they crie out as faſt as the reſt. The Kings of <hi>Perſia,</hi> although they had giuen the Iewes licence to goe home to build their Temple and Citie, yet they laid a great taske on them, which they ſhould paie, in token of their ſubiection, and recompence for their li<g ref="char:EOLhyphen"/>berties ſake. The Rulers &amp; chiefe of the Iewes had ingroſſed vp in their hands vnmercifullie all the corne and money, that could be come by, ſo that litle or nothing could be gotten to fill their bellies, and to pay the kings tribute withall: therefore <hi>theſe men muſt pledge their lands and vineyeards to get ſome money for this purpoſe.</hi> O miſerable wretches, that had thus miſerablie oppreſſed their poore breethren and countriemen, who had taken as much paines as they or more for the defence of their countrie, building of their Temple and Citie: and now in their great neede could finde no comfort nor reliefe at their hands. But theſe be no new things in the world: for <hi>Amos</hi> the Prophet complaineth likewiſe of the oppreſſion,<note place="margin">
+                        <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 8.</note> that the richer ſort vſed to<g ref="char:EOLhyphen"/>ward the poore in his time. <hi>When wil this moone paſſe away,</hi> ſaie they, <hi>that hath ſo much plentie: and the time come, that we may make the meaſure leſſe, and buy the poore for ſiluer, and the needie for ſhoes, and ſell the out caſt of the wheat.</hi>
+                  </p>
+                  <p n="5">5. <hi>And now as the fleſh of our breethren is.</hi> But now come they all howling and crying toge<g ref="char:EOLhyphen"/>ther,
+<pb n="11" facs="tcp:174759:6"/>and ſaie, what better caſe are we in, that be come home to our countrie, then our bree<g ref="char:EOLhyphen"/>thren, which liue in captiuitie vnder the Chal<g ref="char:EOLhyphen"/>dies, Aſſirians, Babylonians, Medes, &amp; Per<g ref="char:EOLhyphen"/>ſians, or any other countrie, where-ſoeuer they be ſcattred on the face of the earth. They liue in penury &amp; hunger, &amp; ſo do we. They be oppreſſed with their Rulers, &amp; ſo be we. Their fleſh is partched with toiling in the heat, and frozen vp with cold, and ſo is ours. Their bel<g ref="char:EOLhyphen"/>lies cleaue to the verie back for hunger, and ſo doe ours. Ther is no ſtrength nor courage left in them, no more is there in vs. They be wearie of their liues, and ſo be we. They haue not where with to fil their bellie, and couer their back, &amp; no more haue we. They pine a<g ref="char:EOLhyphen"/>way for ſorow, and ſo doe we. They haue no<g ref="char:EOLhyphen"/>thing left but skinne &amp; bones, and thoſe will ſcarſe cleaue together for ſorow, and in the ſame caſe be we. If they get a pennie with great labour, one or other is readie to ſnatch it from them, and ſo it is with vs. As their children liue in as great ſlauerie and miſerie as their fathers, ſo doe our children liue as miſe<g ref="char:EOLhyphen"/>rablie as we doe. There is no reſpect of age nor youth neither there nor here, but all kinds of ſorow are laide vppons vs without mercie. If this ſorow were laide on vs alone we could better beare it, but when we ſee our children, yong infants that cannot help them-ſelues, to
+<pb n="12" facs="tcp:174759:7"/>be wrapt in the ſame miſerie that we be, and can help neyther them nor our ſelues, it dou<g ref="char:EOLhyphen"/>bleth and tripleth our ſorow, and yet both is remediles, endles, and comfortles.</p>
+                  <p>Theſe be ſtraunge things which were laid to their charge for their vngentle dealing: but loe, marke and conſider farther, and theſe dealings that folow are much worſe monſters in nature, and things intollerable, both afore God and man. This word <hi>loe, marke or behold, Ecce,</hi> euer betokneth throughout the ſcrip<g ref="char:EOLhyphen"/>ture ſome notable thing eyther verie good or verie ill, that is ſpoken of immediatlie after<g ref="char:EOLhyphen"/>ward, and ſuch a one as commonlie falleth not out among men: And the holie Ghoſt of purpoſe vſeth to marke ſuch notable things with this word <hi>Loe, Ecce,</hi> marke or behold to put men in remembrance, and a wake them to the conſideration of the weightie matter that followeth, that they ſhould not lightlie paſſe ouer it, but deeplie marke &amp; conſider it. Marke the greatnes of this oppreſſion and vn<g ref="char:EOLhyphen"/>mercifull dealing of the richer ſort toward vs their poore breethren and countriemen, of the ſame religion, and ſeruing the ſame God that they doe, &amp; haue taken as much paines in building the Temple, Citie, and defending our countrie as they haue done, or more: and yet can finde no mercie at their hands, but are made their ſlaues. For <hi>behold in ſtraunge
+<pb n="13" facs="tcp:174759:7"/>countries, where our breethren dwell, ſtraungers take their ſonnes and daughters by force and make them bond-men and ſlaues: but we are brought into ſuch miſerie, that we our ſelues are driuen by neceſſitie through the oppreſſion of our rulers, againſt our will, and willingly to bring &amp; offer our ſonnes and daughters to them to be their bond-ſer<g ref="char:EOLhyphen"/>uants, ſlaues, &amp; vſed as beaſts at their commaunde<g ref="char:EOLhyphen"/>ment, that we &amp; they may liue, though it be in great miſerie, rather then periſh for hunger or penury.</hi> And, that ye may ſee the thing to be true, and not feigned, <hi>ſome of our daughters are in bon dage to them alreadie.</hi> It is a great griefe to pa<g ref="char:EOLhyphen"/>rents, to ſee their owne Children taken by ſtraungers &amp; made ſlaues in their owne ſight: but it is a greater grief for fathers to be ſo cru<g ref="char:EOLhyphen"/>ellie delt with in their owne countrie, at their friends hands and countrie-men, that they ſhall be compelled willinglie, though againſt their wills, to ſell their children for ſlaues, or elſe die for hunger. At ſtraungers hands, and ſpeciallie if they be of another Religion, no man looketh for anie fauour, and if anie doe come, it is more then looked for, and ſo much the more welcome, when it commeth: but at a friend and countrie-mans hand, where all courteſie is to be looked for, and to finde none but all extremitie, it is a griefe aboue all griefes, and mans hart can neuer digeſt it. It is againſt God, againſt nature, and common
+<pb n="14" facs="tcp:174759:8"/>reaſon which teacheth all gentlenes to ſuch: nay it is worſſe then beaſtlines: for one beaſt will not deale ſo cruellie with another of his owne kinde: and one theefe will not robbe another: therefore to be ſpoiled and robbed by them of whom they ſhould be defended &amp; releeued, it is a griefe that paſſeth all ſorowe. But if theſe ſorowes could haue an end, or ther were anie hope to haue releaſe of them in time we could take it the better, &amp; haue ſome com<g ref="char:EOLhyphen"/>fort: but all hope is taken away, for we haue no powre left, we haue nothing to help our ſelues withall, we haue wraſtled as long as we might and made ſhift as long as it would be, but now we are able to beare it no more, we haue no<g ref="char:EOLhyphen"/>thing left, all is ſpent and gone, and we can<g ref="char:EOLhyphen"/>not deuize where to get anie more: our hou<g ref="char:EOLhyphen"/>ſes, our lands and vineyeardes other men haue cruellie gotten from vs, and vnmercifullie doe keepe them, &amp; haue no regard to help vs in this our great and extreame neceſſitie. We can doe nothing, but cry out on heaue<g ref="char:cmbAbbrStroke">̄</g> &amp; earth, but they haue hardned their harts and ſtopt their eares that they will not heare nor pitie vs. Mercie is gone, crueltie, oppreſſion, and greedines cary the<g ref="char:cmbAbbrStroke">̄</g> away, that both forget god &amp; them-ſelues. This was the miſerable ſtate of that time: a ma<g ref="char:cmbAbbrStroke">̄</g> would haue thought that the miſerie, ſlauerie, and bondage, that they them-ſelues were in of late, vnder heathen Princes, in ſtraunge
+<pb n="15" facs="tcp:174759:8"/>countries, and ſo late being reſtored through gods free and vndeſerued goodnes to their owne countrie, with libertie, great gifts and liberalitie, to build their temple &amp; citie, ſhould not haue bene ſo ſone forgotten, but as they th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> would haue bene glad of ſome releefe, ſuccour &amp; courteſie to be ſhewed vnto them at ſtraungers hands, ſo they ſhould now ſhew the like vnto their breethren &amp; countrimen: but ſuch is the wickednes of mans hart that the more mercies we receiue at Gods hand, the more vnthankefull we be: and ſuch is the ma<g ref="char:EOLhyphen"/>lice of <hi>Sathan</hi> againſt God, his Church, and people, that when the Lord of his owne free will and vndeſerued goodnes beſtoweth his mercie vpon his ſeruants, the Deuill by his members and all deuiſes poſſible, goeth about to ouerthrow and withdraw all ſorts of men, ſo much as in him is, to a forgetfulnes of ſuch mercifull goodnes beſtowed vpon them, and maketh them vnmercifull to their breethren, which haue receiued ſo great mer<g ref="char:EOLhyphen"/>cie at the Lords hand. Religion is the chiefeſt help that god hath giuen vs to knowe him by, to bridle our ill affections and deſires with<g ref="char:EOLhyphen"/>all, to make vs loue one another, and ſet forth his glorie: and yet if we looke into our ſelues in theſe daies, we ſhal finde that there was ne<g ref="char:EOLhyphen"/>uer greater crueltie, oppreſſion of the poore, Hypocriſie, and diſſembling in Gods cauſe,
+<pb n="16" facs="tcp:174759:9"/>and vnmercifulnes amongſt men, in this land, then hath bene ſince the beginning of the reforming of Religion amongſt vs: yea, and that is more wonderful, of ſuch as would pretend to be fauourers of Religion. Hypo<g ref="char:EOLhyphen"/>crites, as they vſe nothing well, ſo they miſ<g ref="char:EOLhyphen"/>uſe Religion, for a cloake to worke their owne will and pleaſure by, to the defacing of all good Religion. Things be freſh in memorie, and cannot be forgotten of them that will not willinglie be blind: but they that liſt to reede, may ſee in that worthie Fa<g ref="char:EOLhyphen"/>ther Maſter <hi>Latimer</hi> his Sermons manie ſuch things opened, that then were preached, &amp; would to God they were now reformed, or not fallen to worſſe and more ſhameful dea<g ref="char:EOLhyphen"/>lings, without hope of amendement. As for begging or buiyng good things at the Kings hand, then ſelling the woods, ſurueying the land, to the vttermoſt acre or roods of land, inhaunſing of rents to the higheſt, from twentie pounds to an hundreth, racking the Tenants by intollerable fines and Incomes, <hi>Sine fine,</hi> euerie 5. or 7. yeare commonlie, lay<g ref="char:EOLhyphen"/>ing load on them, to carie and recarie what ſo<g ref="char:EOLhyphen"/>euer is to be done, paying neuer a pennie for their labour, ride and runne when he is com<g ref="char:EOLhyphen"/>maunded, &amp;c. Then turne it into the Princes hand againe, get as much, and vſe it as ill or worſſe, This practiſe hath bene ſo common,
+<pb n="17" facs="tcp:174759:9"/>and declared by diuers, that few can be igno<g ref="char:EOLhyphen"/>rant of it, and manie crie out on it at this day, but remediles. Yet this is not the worſt: if there be anie broken title of the land, that maie make queſtion in the Law, or if there be anie daunger of waters or extraordinarie charges, reparations, &amp;c. then it is meete for the Prince by exchaunge. When it is rackt to the high<g ref="char:EOLhyphen"/>eſt, and a good thing gotten in ſteede of it, yet that the Prince ſhall not be thought to haue an ill bargaine, he will deſire to be farmer of it him-ſelfe after the ſame rate, to ſtop mens mouthes for a time. As it is reaſon, honora<g ref="char:EOLhyphen"/>ble, and Godlie, that the Prince ſhould libe<g ref="char:EOLhyphen"/>rallie reward and encourage the good ſerui<g ref="char:EOLhyphen"/>tor: ſo is it reaſon againe, that the Princes goodneſſe, nor the ſubiect be miſuſed. Ma<g ref="char:EOLhyphen"/>ſter <hi>Latimer</hi> did freelie ſpeake of theſe things, not without blame, as peraduenture this will be to: but would to God this had bene vſed only in the princes ſtate. but he that wil looke and ſee, ſhall finde the like to common in meane mens doings. As for pulling downe of Townes, turning tillage to paſture, and tur<g ref="char:EOLhyphen"/>ning out the tennants, as <hi>Achab</hi> did to <hi>Na<g ref="char:EOLhyphen"/>both</hi> for his vineyeard, that they maie haue el<g ref="char:EOLhyphen"/>bowroume, make them large demeans, or ſet a ſhepheard and his dogg, where ſo manie haue dwelt, and that a poore man may not dwel ſo neere a man of worſhip: theſe be ſo
+<pb n="18" facs="tcp:174759:10"/>common among the meaneſt ſort of Pur<g ref="char:EOLhyphen"/>chaſers, that men neede not to ſtudie where to finde them. Raiſing of Rents, &amp; taking vn<g ref="char:EOLhyphen"/>reaſonable fines and greſſans, is thought no faulte, it is ſo common: but ſome are waxen ſo cunning, that it is ſtraunge to thinke of. A land-lord is hungrie, and needes muſt haue fines euen of the pooreſt ſort: and becauſe he wil be thought to deale mercifullie, this waie is deuiſed. The poore man hath no money, and yet he muſt pay: his goods, and ſpeciallie his ſheepe, though they be few, ſhall be prei<g ref="char:EOLhyphen"/>ſed, and according to the rate, out of thoſe goods the fineſhalbe raiſed. And that ſome pitie ſhalbe thought to be ſhewed, the poore man ſhall haue his goods againe by the price, to pay his fine withall, and for occupying of thoſe his owne goods, he ſhal pay a yearelie rent or intereſt, as it were an vſurie: and this dealing is thought greate courteſie. <hi>Solon, when he was asked, why, among the other good lawes that he made, he made not one for him that killed his father? He anſwered, becauſe he would not put men in remembrance, that there was any ſuch a miſchiefe, that could come into mens heads:</hi> So I feare the opening of theſe things ſhall giue occaſion to ſome ill men, but not to the good, to learne the like deuiſes. So readie we be to learne that that is ill. The law in deede openeth ſin what it is, that a man ſhould flie
+<pb n="19" facs="tcp:174759:10"/>from it, &amp; not be condemned for ignorance. Saint <hi>Paul</hi> ſayeth,<note place="margin">Rom. <hi>7.7</hi>
+                     </note> 
+                     <hi>I had not knowne lust and de<g ref="char:EOLhyphen"/>ſire of ill things to be ſinne, except the law had ſaid, thou ſhalt not luſt nor deſire them.</hi> The law is not to blame in declaring what ſinne is, that by knowing of it we may flie from it: no more then the Phiſitian is to blame in opening the diſeaſe to his patient, and teaching him what things to auoid, that he may recouer halth. But as an ill ſtomach, what good meat ſoeuer it eateth, turneth it into ill humors: and the Spider gathereth poyſon on the ſame flowres that the Bee gathereth honie: So on the holie word of God &amp; his bleſſed lawes, which he made for our health and ſaluation, ill men ga<g ref="char:EOLhyphen"/>ther death and damnation, through their owne wickedneſſe, and no fault in the law nor law-maker. As the <hi>Iſraelites</hi> cried out in this time iuſtlie on their Rulers for this great op<g ref="char:EOLhyphen"/>preſſion, ſo it is to be feared that in our daies there is no leſſe cauſe to crie aloud, that God may heare, when man will not. There be four things that crie for vengeaunce out of heauen vnto the Lord, and the ſcripture vſeth the ſame word of crying with them, which for memories ſake are conteined in theſe two verſes:
+<q>
+                        <l>Clamitat in coelum vox ſanguinis, vox Sodo<g ref="char:EOLhyphen"/>morum,</l>
+                        <l>
+                           <g ref="char:V">Ʋ</g>ox oppreſſorum, merceſ<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan>, retenta laborum.</l>
+                     </q>
+                  </p>
+                  <pb n="20" facs="tcp:174759:11"/>
+                  <p>For murther and bloodſhed God ſaid to <hi>Cain,</hi> when he had killed his brother <hi>Abel, the voice of thy brothers blood crieth out from the earth to me in heauen.</hi>
+                     <note place="margin">
+                        <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 4.</note> For the filthie inceſt, fornication, Pride, Glotonie, wealth, and I<g ref="char:EOLhyphen"/>dlenes of <hi>Sodom,</hi> the Prophet <hi>Ezechiel</hi> and <hi>Geneſis</hi> teſtifie ſaying;<note place="margin">
+                        <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 19. <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 16. <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>. 2.3.</note> 
+                     <hi>the crie of Sodom is come vp to me.</hi> The <hi>Iſraelites</hi> oppreſſed in <hi>Egipt</hi> with making of brick, &amp;c. God deliuered them when they cried vnto him,<note place="margin">
+                        <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 5.</note> and drowned the oppreſſors. S. <hi>Iames</hi> ſayeth, <hi>the wages withhol<g ref="char:EOLhyphen"/>den from thoſe that reaped their fields, crie out vn<g ref="char:EOLhyphen"/>to the Lord of hoſtes.</hi> Theſe be good leſſons for ſuch as oppres the poore, or deale ſtreight<g ref="char:EOLhyphen"/>lie with their tennants, thinking they may vſe them like ſlaues or beaſts at their pleaſure. Though they be ſeruants here, yet they be children of the ſame God, and bought by the ſame price that their maſters be: &amp; therefore ought of dutie to be vſed with Chriſtian and brotherlie charitie, as thou wouldſt be, if thou were ſo. There be other ſorts of cruell oppreſ<g ref="char:EOLhyphen"/>ſours, but not ſo common as theſe: As coſe<g ref="char:EOLhyphen"/>ning, by cunning dealing to creep into mens boſomes, to be Feoffies of truſt, Executors of will, Gardians of infants, and theſe plaie beſt be truſt, but they truſt them-ſelues beſt and goe awaie with all. Cariers of corne, victu<g ref="char:EOLhyphen"/>als, and other commodities out of the realm, to make a dearth within the realme, yea, and
+<pb n="21" facs="tcp:174759:11"/>oft to feede our enemies, and enrich them<g ref="char:EOLhyphen"/>ſelues, by procuring licenſes to carie them out, are to well knowen how hurtfull they be through all countries. As for Ingroſſers, fore-ſtallers, regraters, leaſe-mongers, they are thought honeſt men. The lawyers of both ſorts by feeding their Clients with faire words, and the Queſtmongers with ſluttiſh ſhifts, making them beleeue their mat<g ref="char:EOLhyphen"/>ter to be good, &amp; with long delayes<g ref="char:punc">▪</g> impoue<g ref="char:EOLhyphen"/>riſh the ſuters: and if he come to be Iudge in the ſame matter afterward, wherein he was a counſeller afore, he ſaith, I ſpake then as a counſeller, and now I muſt ſpeake as a Iudge, and thinketh that he hath ſpoken good rea<g ref="char:EOLhyphen"/>ſon, as though God had made it lawfull at any time, or in anie caſe to beare falſe witnes or ſpeake vntruthes. The Phiſitian and the Apo<g ref="char:EOLhyphen"/>thecarie deale ſo cunninglie that no man e<g ref="char:EOLhyphen"/>ſpieth them, and yet be as ill. The cleargie that will take the profit and refuſe the paines, Lie at his eaſe from his charge and let his ſheepe hunger, are not better then the reſt. Pen-clearks, ſhirifs, bailifs, &amp; ſummoners are not worthy to come to this companie, for they can returne <hi>Non eſt inuentus,</hi> when they ſtand and talke with him: and make cunning de<g ref="char:EOLhyphen"/>layes, vntill they make men pay double fees for expedition. Worſt of all commeth the common cutpurſſe the vſurer and his broker,
+<pb n="22" facs="tcp:174759:12"/>he ſtandeth on his reputation, he ſitteth hig<g ref="char:EOLhyphen"/>eſt on the benche, and looketh bigge; nay he is crept vnto meane mens dealings, he ſpea<g ref="char:EOLhyphen"/>keth courteouſlie, and dealeth cruellie: he de<g ref="char:EOLhyphen"/>fendeth his doings to be charitable, when it eateth vp houſe, lands, and goods, turneth in<g ref="char:EOLhyphen"/>fants a begging, and ouerthroweth the whole kinred: Captaines conuey as cunninglie as Iugglers with leger-demaine. Merchants and Artificers are ſo honeſt, that they may not be touched: they haue ſo few faults, that they cannot be told, and yet there could neuer be lawes enough made to bridle them, but they will creepe out. When receiuers are become deceiuers, controulers be pollers, Auditors ſearchers, and Cuſtomers looke through their fingers and keepe their olde cuſtome: And generallie, <hi>euerie man is a Theefe in his occupa<g ref="char:EOLhyphen"/>tion,</hi> as the common prouerbe ſaith, <hi>there is craft euen in daubing:</hi> it is to be feared, that as the courſe of a ſtreame being ſtopt, it gather<g ref="char:EOLhyphen"/>eth a great damme, and being let ſodenlie goe, it ouerthroweth all in his way; ſo Gods anger being ſtaied a time, the windowes in heauen being opened, it will powre downe on our heads plentifullie. How ſhoul Gods plague be farre from vs, when theſe cry vengeance daily? the theefe by the high way is not ſo ill as anie of thoſe, that deale not vprightly in their voca<g ref="char:EOLhyphen"/>tion. For againſt a theefe a man may fight for
+<pb n="23" facs="tcp:174759:12"/>his purſſe wittinglie, and ſaie, maſter theefe gramercie. If a man conſider in how litle tents, Shops, Offices, and houſes theſe men dwell, and how great gaines they get, he ſhall eaſilie ſee where the proficableſt ground lieth in the Realm. If this people had ſuch cauſe to crie out then on their Rulers, what cauſe haue we now here among vs, where not onelie the richer &amp; mightier ſort ouerload the poorer, but euery one in his degree vſeth craft, ſubtilty, &amp; deceit, to oppreſſe, vndermine, and ſcratch from o<g ref="char:EOLhyphen"/>ther, without reſpect of friend or foe, what he can, not regarding how he commeth by it, by hooke or by crooke, by right or wrong, be it ſhort or long. Here is nothing ſpoken particularlie againſt any mans vocation or oc<g ref="char:EOLhyphen"/>cupation, nor anie man that dealeth honeſtlie in them, but generallie to note the generall faults of the offenders, that euerie man may looke into his owne boſome, conſider his do<g ref="char:EOLhyphen"/>ings and amend one. If euery one wold amend one, all ſhould be wel ſtreight: but euerie one would amend another, ſee other mens faults, but not his owne, and therefore all lie ſtill as they did, nothing amended, and euerie one maketh curteſie who ſhal begin firſt. <hi>Sophony</hi> the Prophet complaineth of his time, &amp; ſaith, <hi>thy rulers are roaring lions, thy iudges are rauening wolues, and will not leaue the bones vntill mor<g ref="char:EOLhyphen"/>ning: by prophets are lewd and vnconſtant, thy
+<pb n="24" facs="tcp:174759:13"/>Prieſts haue defiled the holy place, and broken thy law. Micheas</hi> crieth out and ſaieth: <hi>there is not a good man left on the earth, and not a righteous man among men, all lie in waite for blood, euerie man hunteth his brother vnto death, &amp;c.</hi> God graunt our times were not like. Among vs it is meri<g ref="char:EOLhyphen"/>lie ſaid of ſome, that <hi>there be ſome Courts where law is executed without conſcience:</hi> Another, <hi>where conſcience is without law:</hi> the third <hi>where neyther law nor conſcience;</hi> the fourth, <hi>where both law and conſcience ſhall rule,</hi> I can rather pray for, then looke for, vntill the laſt day come, when the righteous Iudge ſhall iudge both with law &amp; conſcience. In the meane time we may mourne, and turne vnto the Lord, that he may forgiue vs, and receiue vs in his manie and great mercies, for we are full of many and great miſeries. The pride of women is through the fault of men, therefore they be blameles: God amend vs all. It is written that <hi>Ioſeph</hi> in <hi>Egipt</hi> vſed the people almoſt of like ſort that they doe here,<note place="margin">47.</note> and yet is he praiſed &amp; and theſe iuſtlie reproued: which poſſiblie ſome marueile at, not vnderſtanding the di<g ref="char:EOLhyphen"/>uerſitie of their doings. <hi>Ioſeph laid vp corne in the time of plentie, when euerie man had ynough:</hi> theſe men did it at al times, without reſpect, in plentie and ſcarſitie. <hi>Ioſeph brought the monie into the Kings cofers, to ſerue the common wealth:</hi> theſe men laid it vp in their owne Cofers, to
+<pb n="25" facs="tcp:174759:13"/>their owne priuate vſe. <hi>Ioſeph bought their cat<g ref="char:EOLhyphen"/>tell for ſuch price as they were worth:</hi> theſe men pay not the iuſt price for anie thing they take. <hi>Ioſeph buieth their land and maketh the people bond vnto the King, reſtoring them againe the land, the King finding the ſeede to ſowe, the people onelie labouring to till the ground. And where we</hi> thinke we deale courteouſlie if we let them to halfes, the <hi>Egiptians</hi> haue the fourth part for their labour, and paie the king the fift part of the encreaſe, for the land and ſeede, but theſe men kept all in their owne hands. <hi>Ioſeph bought not the Prieſts lands, but gaue them alow<g ref="char:EOLhyphen"/>ance of ſuch things as they wanted out of the kinges ſtore:</hi> and theſe men like vnto our daies, if they can ſcrape anie thing from the Church, that is a paſtime among all other to laugh at, and thought beſt gotten. So much more is a miniſter of Gods Goſpell thought meeter to be ſpoiled by theſe cutpurſſes, then <hi>Ioſeph</hi> thought meete to doe to thoſe Idolatrous prieſts. <hi>Ioſeph opened his barnes in time of dearth, and ſold liberallie to the needie:</hi> theſe men the greater that the neede was, the faſter they lockt it vp, vntill they had their deſire of the poore. <hi>Ioſeph restored their land and tooke but the fift part of the encreaſe:</hi> theſe men reſtore nothing, and yet take intereſt. As this cruell dealing toward their breethren and coun<g ref="char:EOLhyphen"/>triemen, was thought ſtraunge to be found
+<pb n="26" facs="tcp:174759:14"/>amongſt this people, in the time that God had ſhewed to them ſuch great mercies, in reſto<g ref="char:EOLhyphen"/>ring them againe to their countrie, giuing them the liberty to build their temple and Citie, with great gifts, liberalitie, and fauour of the kings, vnder whom they were bond<g ref="char:EOLhyphen"/>men and ſlaues: So it is much more marueil, that among Chriſtians, in the time of the goſ<g ref="char:EOLhyphen"/>pell, ſo mercifullie reſtored vnto vs, &amp; ſo free<g ref="char:EOLhyphen"/>lie taught, greater crueltie ſhould be found &amp; exerciſed, then among the hard harted Iewes or infidell pagans. But this is the common practiſe of Sathan, that in no age, people, nor countrie, he can be quiet to ſee Gods kingdom ſet vp and floriſh, and his powre fall: but he will rage, ſtorme, beſturre him, and by al deui<g ref="char:EOLhyphen"/>ſes that may be, and by all powre that he can ouerthrow it. And ſeeing this is no new thing but hath fallen out diuers times afore, let vs not now be aſtonied nor diſmaied at it, nor murmure and grudge againſt the doctrine of our ſaluation, ſo mercifullie offered vnto vs, as though it were not the true word of God, becauſe men liue ſo far contrary to that which is taught, and they openlie profeſſe. The de<g ref="char:EOLhyphen"/>uill is content, when he cannot ouerthrow the trueth of the doctrine, to deface it ſo much as he can, with the ill life of thoſe that profeſſe it. But the goſpell teacheth vs what to doe in this caſe,<note place="margin">
+                        <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>. 23.3.</note> ſaying; <hi>doe as they ſay, but doe not as
+<pb n="27" facs="tcp:174759:14"/>they doe:</hi> The doctrine is good, though they be ill. The trueth and worthines of Gods word hangeth not on our life and doings, but our life and doings ſhould be reformed by Gods word: for that <hi>is a Lanterne to our feete,</hi>
+                     <note place="margin">
+                        <hi>Pſa<g ref="char:punc">▪</g>
+                        </hi> 
+                        <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>.</note> 
+                     <hi>and a light to our ſtepps,</hi> that we may know when we be in the right way and how to come into it. We muſt be iudged by gods word, &amp; not it by vs: we muſt be ruled by it, and not ouer<g ref="char:EOLhyphen"/>rule it, according to our phantaſies: we muſt hang on Gods true ſaying, and not on mans euill liuing.</p>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="table_of_contents">
+                  <pb n="28" facs="tcp:174759:15"/>
+                  <head>A TABLE OF SVCH POINTS AS ARE CONTEINED IN <hi>the ſecond Treatiſe</hi>
+                  </head>
+                  <list>
+                     <item>
+                        <hi>1.</hi> What oppreſſion is.</item>
+                     <item>
+                        <hi>2.</hi> It is not lawfull for anie man to oppreſſe ano<g ref="char:EOLhyphen"/>ther.</item>
+                     <item>
+                        <hi>3.</hi> They which haue done wrong vnto, or op<g ref="char:EOLhyphen"/>preſſed anie, muſt make actuall reſtitu<g ref="char:EOLhyphen"/>tion.</item>
+                     <item>
+                        <hi>4.</hi> It is the duety of the Magistrate, to deli<g ref="char:EOLhyphen"/>uer the oppreſſed out of the hands of the oppreſſour.</item>
+                     <item>
+                        <hi>5.</hi> The Magiſtrate looſeth nothing by deliue<g ref="char:EOLhyphen"/>ring the oppreſſed.</item>
+                     <item>
+                        <hi>6.</hi> Oppreſſours ſhall be grieuouſlie puniſhed.</item>
+                     <item>
+                        <hi>7.</hi> Oppreſſours haue no Religion in them.</item>
+                  </list>
+               </div>
+               <div type="to_the_reader">
+                  <pb n="29" facs="tcp:174759:15"/>
+                  <head>To the Reader.</head>
+                  <p>IT hath pleaſed an Engliſh papiſt, to giue out in print, that the Church of Roome doth both teach, and require actuall reſtitution, and that our church doth neyther. His ſpeech of vs is verie ſlau<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>derous, and my treatiſe againſt oppreſſion, is argu<g ref="char:EOLhyphen"/>ment ynought to confute him. If they of Rome teach and require actuall reſtitution, it is no worke of ſu<g ref="char:EOLhyphen"/>pererogation: they doe no more but their dueties. If we ſhould faile in this cleare point, we deſerue great condemnation at almightie Gods hands. I confeſſe that a man is good (&amp; therefore iuſtified in Gods fight) before he doth good workes: but withall I ſet downe this, that good workes doe followe him that is truelie iuſtified, and that ſuch as haue op<g ref="char:EOLhyphen"/>preſſed, or iniured any man, ſhall not be pardoned at Gods hand, vnleſſe they make actually reſtitution, if they be able to doe it. If any re<g ref="char:EOLhyphen"/>quire proofe of this, I re<g ref="char:EOLhyphen"/>ferre him to this trea<g ref="char:EOLhyphen"/>tiſe of mine againſt oppreſſion.</p>
+               </div>
+            </front>
+            <body>
+               <div type="treatise">
+                  <pb n="30" facs="tcp:174759:16"/>
+                  <head>THE SECOND TREATISE AGAINST THE FOVLE AND GROSSE ſinne of oppreſſion.</head>
+                  <p>
+                     <label>Queſtion.</label> 
+                     <hi>
+                        <seg rend="decorInit">W</seg>Hat is oppreſſion? </hi>
+                  </p>
+                  <p>
+                     <label>Anſwere.</label> It is vniuſt dealing, vſed of the mightier, either by violence, colour of lawe, or anie o<g ref="char:EOLhyphen"/>ther cunning dealing, againſt ſuch as are not able to withſtand them. The ground of this definition is conteined in theſe places of Scripture. Micheas. Chap. 2. verſe. 1.2.1. Theſ. Chap. 4. verſe. 6.</p>
+                  <q>
+                     <hi>2.</hi> It is not lawfull for anie man to oppreſſe ano<g ref="char:EOLhyphen"/>ther.</q>
+                  <p>
+                     <hi>GIue vs this daie our dailie bread.</hi> Mat. Cha. 6. verſe. 11. Euerie Chriſtian deſireth God to giue dailie bread, (that is, all things neceſ<g ref="char:EOLhyphen"/>ſarie for this life) both to him-ſelfe, and to others: therefore no Chriſtian is priuiledged
+<pb n="31" facs="tcp:174759:16"/>to ſpoile another of his neceſſary food.</p>
+                  <p>If one of vs muſt praie for the good of ano<g ref="char:EOLhyphen"/>ther, one of vs may not pray vpon another. <hi>He that taketh his neighbours liuing,</hi>
+                     <note place="margin">Eccl. ch<g ref="char:punc">▪</g> 
+                        <hi>34.</hi> v. <hi>2</hi>
+                     </note> 
+                     <hi>is a mur<g ref="char:EOLhyphen"/>therer.</hi>
+                  </p>
+                  <p>
+                     <hi>Thou ſhalt not deſire thy neighbours houſe, his fielde,</hi> &amp;c. Deut. 5.21. If we may not deſire his houſe, or land, then we may not ſpoile him of his houſe, or land, or in cloſe that ground, whereby the poore either by right are, or by right ought to be relieued.</p>
+                  <p>
+                     <hi>If thou meet thin enemies oxe, or his Aſſe going aſtray, thou ſhalt bring him to him againe. If thou ſee thy enemies Aſſe lying vnder his burden, wilt thou ceaſe to help him? thou ſhalt help him vp with it againe.</hi> Exod. 23.4.5. Almightie God com<g ref="char:EOLhyphen"/>maundeth vs to deale well with our enemies Aſſe, therefore we may not by vndoing our neighbour or ſpoiling him of anie part of his land or goods, make him an aſſe and ſend him a begging.</p>
+                  <p>
+                     <hi>He that oppreſſeth the poore, reproueth him that made him, &amp;c.</hi>
+                     <note place="margin">
+                        <hi>Prou.</hi> 14.31.</note> It is a groſſe ſin to reproue the maieſtie of God: therefore it is a groſſe ſinne to oppreſſe the poore.</p>
+                  <p>
+                     <hi>It was one of the ſinnes of Sodom, not to reach out the hand to the poore.</hi> Ezech. 16.49. If it be a great ſinne, not to relieue the poore, it is a very groſſe ſin to ſpoile the poore. <hi>The bread of the needefull is the life of the poore:</hi>
+                     <note place="margin">
+                        <hi>Eccl.</hi> 34.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</note> 
+                     <hi>he that de<g ref="char:EOLhyphen"/>fraudeth
+<pb n="32" facs="tcp:174759:17"/>him thereof, is a murtherer.</hi>
+                  </p>
+                  <p>There is a writ in England, which beareth this name, <hi>Ne iniuſtè vexes,</hi> that is to ſaie, <hi>vexe not anie man vniuſtly:</hi> This is a godlie lawe, and is deriued from the lawe of God, which forbiddeth and condemneth oppreſ<g ref="char:EOLhyphen"/>ſion.</p>
+                  <p>There are certaine beggers, which of pur<g ref="char:EOLhyphen"/>poſe keepe their legges ſore, to get money by it: If they are iuſtly miſliked which gaine by their owne ſore legges, what deſerue they to be thought of, which gaine by other mens ſore legges?</p>
+                  <p>When thou ſelleſt ought to thy neigh<g ref="char:EOLhyphen"/>bour, or buieſt at thy neighbours hand, <hi>yee ſhall not oppreſſe one another.</hi> Leuit. 25. ver. 14. <hi>This is the will of God, that no man oppreſſe or de<g ref="char:EOLhyphen"/>fraude his brother in any matter.</hi> 1. Theſ. 4.6. Therefore men of trade may not gaine by litle meaſures, falſe weights, and falſe ſpeeches, and othes, nor anie mightie men maie gaine by cunning dealing, by colour of lawe, or by vſing any violence what-ſoeuer.</p>
+                  <q>
+                     <hi>3.</hi> They which haue done wrong vnto, or op<g ref="char:EOLhyphen"/>preſſed any, muſt make actual reſtitution.</q>
+                  <p>GOd ſaith thus vnto Moſes: <hi>ſpeake vnto the children of Iſrael, when a man or woman ſhall commit anie ſinne, that men commit, and tranſ<g ref="char:EOLhyphen"/>greſſe againſt the Lord, when that perſon ſhall treſ<g ref="char:EOLhyphen"/>paſſe
+<pb n="33" facs="tcp:174759:17"/>then they ſhall confeſſe their ſinne, which they haue done, &amp; ſhall reſtore the damage thereof with his principal, and put the fift part of it more there<g ref="char:EOLhyphen"/>to, and ſhall giue it vnto him, againſt whome he hath treſpaſſed. But if the man haue no kinſman, to whom he ſhould reſtore the dammage, the dam<g ref="char:EOLhyphen"/>mage ſhalbe reſtored to the Lord, for the Prieſts vſe,</hi> &amp;c. Num. 5. ver. 6.7.8. We are taught in this place, to whom this actuall reſtitu<g ref="char:EOLhyphen"/>tion muſt be made, euen to him, whom we haue iniured: if he be dead, we muſt reſtore it to his kinſman: if he haue no kinſman aliue, actuall reſtitution muſt be made to almightie God, for the Prieſtes vſe, and in our time for the poores vſe.</p>
+                  <p>
+                     <hi>Michah robbed his mother of</hi> 11. <hi>hundred ſhekels of ſiluer:</hi>
+                     <note place="margin">
+                        <hi>Iud.</hi> 17.2</note> his mother did not knowe that he had it, but he had remorſe of that ſin, and made actual reſtitution.</p>
+                  <p>
+                     <hi>Samuel</hi> ſaith thus of him-ſelfe: <hi>Whoſe Oxe haue I taken? Whoſe Aſſe haue I taken?</hi>
+                     <note place="margin">1. <hi>Sam.</hi> 1</note> 
+                     <hi>or whom haue I done wrong to? or whom haue I hurt? or of whoſe hands haue I receiued any bribe, to blind my eies there-with? and I will reſtore it you, &amp;c.</hi> It is certaine that <hi>Samuel</hi> did not deale either corruptly or vniuſtly in his office: if he had, he would haue made actual reſtitution.</p>
+                  <p>
+                     <hi>Zacheus</hi> was ſome times verie diſordered in his life: it pleaſed our ſauiour Chriſt to be a good God vnto him, and to lodge in his
+<pb n="34" facs="tcp:174759:18" rendition="simple:additions"/>houſe: <hi>Zacheus</hi> hauing feeling of his former wants vttered theſe words, <hi>If I haue taken from any man by forged cauillation, I reſtore him, foure folde.</hi> If Zacheus of Iericho, after his conuerſion, was content to reſtore foure folde, it is a good conſequent, that they haue litle ſenſe of Religion, which will not reſtore the principall.</p>
+                  <p>
+                     <label>Queſtion.</label> 
+                     <hi>If a man haue deceiued, robbed or oppreſſed other men, ſhal he be pardoned at Gods hand, if he make not actual reſtitution.</hi>
+                  </p>
+                  <p>
+                     <label>Anſwere.</label> God will not pardon him, vnleſſe he make actual reſtitution, if he be able to doe it: my reaſons are theſe.</p>
+                  <p>
+                     <hi>If the wicked reſtore the pledge, and giue a<g ref="char:EOLhyphen"/>gaine that he had robbed,</hi>
+                     <note place="margin">
+                        <hi>ip.</hi> 18. <hi>v.</hi> 13.</note> 
+                     <hi>he ſhal ſurelie liue, &amp; not die, ſaieth the Lord.</hi> Eze. 33.15. Therefore, it is a ſure conſequent, that he ſhal not liue eter<g ref="char:EOLhyphen"/>nallie, which being in caſe to make actuall reſtitution, doeth it not accordingly.</p>
+                  <p>
+                     <hi>Is not this the faſting that I haue choſen, to looſe the bands of wickednes to take of the heauy bur<g ref="char:EOLhyphen"/>dens, and to let the oppreſſed goe free, and that ye breake euery yoke, &amp;c. Then ſhalt thou call, and the Lord ſhal anſwere, thou ſhalt crie, and he ſhall ſay, here I am, &amp;c.</hi> Eſa. 58.6.9. If the oppreſ<g ref="char:EOLhyphen"/>ſour muſt let the oppreſſed goe free, he muſt make actual reſtitution. If almightie God will
+<pb n="35" facs="tcp:174759:18"/>not heare the praier of the oppreſſour (vntill he let the oppreſſed goe free) it is a neceſſary conſequent, that God will not pardom him.</p>
+                  <p>
+                     <hi>Auguſtine,</hi>
+                     <note place="margin">
+                        <hi>Epiſt.</hi> 54.</note> is very flat for this point: if men be able to make actuall reſtitution and doe it not, <hi>poenitentiae non agitur, ſed fingitur:</hi> that is to ſay, their repentance is no repentance, and their ſin ſhal not be pardoned, vntill actu<g ref="char:EOLhyphen"/>all reſtitution be made.</p>
+                  <p>
+                     <label>Queſtion.</label> 
+                     <hi>If a man haue ſecretly either robbed or deceiued another, and is very willing to make reſtitution, but cannot doe it with-out ſome worldlie danger, and diſgrace to him-ſelfe, what muſt he doe in this caſe?</hi>
+                  </p>
+                  <p>
+                     <label>Anſwere.</label> Let him ſend that which he hath taken vn<g ref="char:EOLhyphen"/>iuſtly, by ſome truſty meſſenger to him whom he hath wronged, and let his name be con<g ref="char:EOLhyphen"/>cealed.</p>
+                  <p>
+                     <label>Queſtion.</label> 
+                     <hi>If he that hath taken vniustly from others, hath wasted all, and is not able to make restitution, what ſhall he doe?</hi>
+                  </p>
+                  <p>
+                     <label>Anſwere.</label> Such a one, muſt deſire pardon very hum<g ref="char:EOLhyphen"/>bly at Gods hand, and water the earth with his teares.</p>
+                  <q>
+                     <hi>4.</hi> It is the duetie of the Magiſtrate to deliuer the oppreſſed out of the hand of the oppreſſour.</q>
+                  <pb n="36" facs="tcp:174759:19"/>
+                  <p>
+                     <hi>EXecute iudgement in the morning</hi> (that is,<note place="margin">
+                        <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 21.12. <hi>
+                           <gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>y.</hi> 1.17.</note> carefullie and without delay) <hi>and deliuer the oppreſſed out of the hand of the oppreſſour, ſaith the Lord, &amp;c. Seeke iudgement, releeue the oppreſ<g ref="char:EOLhyphen"/>ſed, iudge the fatherles, &amp; defend the widowe.</hi> Al<g ref="char:EOLhyphen"/>mightie God commaundeth the Magiſtrates to execute iudgement in the morning: there<g ref="char:EOLhyphen"/>fore they muſt vſe no delaies in doing iuſtice. God commaundeth the magiſtrates to ſeeke iudgement, therefore in caſes of oppreſſion, they muſt not ſtay till they be called for. God commendeth vnto the Magiſtrates al that are oppreſſed, but ſpeciallie the fatherleſſe and widowe, becauſe they want the defence of their parents, and huſbandes, and euery man goeth ouer,<note place="margin">
+                        <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>. 22.</note> where the hedge is loweſt.</p>
+                  <p>
+                     <hi>Ioſias executed iudgement &amp; iuſtice, he iudged the cauſe of the afflicted &amp; poore</hi> (ſaieth the Lord of <hi>Ioſias</hi>).</p>
+                  <p>
+                     <hi>Iob ſaieth thus of himſelfe: I deliuered the poore that cried,</hi>
+                     <note place="margin">
+                        <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>. 29</note> 
+                     <hi>and the Fatherles, &amp; him that had none to help him, &amp;c. I put on iuſtice, &amp; it couered me: my iudgement was the eie to the blinde, and I was a father vnto the poore, and when I knewe not the cauſe, I ſought it out diligentlie, I brake alſo the chawes of the vnrighteous man, and pluckt the pray out of his teeth, &amp;c.</hi> It appeereth by this, that <hi>Iob</hi> was a worthie Magiſtrate: God ſend vs manie ſuch as <hi>Iob</hi> was.</p>
+                  <p>The <hi>Sunamite</hi> (whoſe ſonne <hi>Elizeus</hi> raiſed
+<pb n="37" facs="tcp:174759:19"/>to life) ſo iourned in the time of famin ſeauen yeares in the land of the <hi>Philiſtines:</hi> in her ab<g ref="char:EOLhyphen"/>ſence, her lands and goods were vniuſtlie en<g ref="char:EOLhyphen"/>tred vpon: at her returne, ſhe complained of the iniurie to <hi>Iehoram</hi> the King of Iſrael: <hi>Ieho<g ref="char:EOLhyphen"/>ram</hi> without delay commaunded an Eunuch to reſtore her goods and landes vnto her: <hi>Reſtore thou</hi> (ſaieth <hi>Iehoram</hi>) <hi>all that are hers,</hi>
+                     <note place="margin">2. <hi>Kings</hi>
+                     </note> 
+                     <hi>&amp; all the fruites of her lands, ſince the day ſhe left the land, euen vntill this time.</hi>
+                  </p>
+                  <p>The Iewes in <hi>Nehemiahs</hi> time were greatly oppreſſed: <hi>Nehemiah</hi> was verie angrie with the Princes and rulers which oppreſſed them,<note place="margin">
+                        <hi>Neh.</hi> 5.</note> and ſaide vnto them: <hi>you lay burdens euery one vppon his breethren &amp;c. Reſtore vnto them this day their lands, their vineyards, their oliues, and their houſes.</hi>
+                  </p>
+                  <p>If it be the magiſtrates duety to deliuer the oppreſſed, they muſt take great heede, that themſelues be neither principals nor acceſſa<g ref="char:EOLhyphen"/>ries in the ſinne of oppreſſion. If they be guil<g ref="char:EOLhyphen"/>tie, <hi>iudgement ſhalbe turned into wormewoode,</hi>
+                     <note place="margin">Amos. &amp; <hi>2.6.</hi>
+                     </note> 
+                     <hi>and the righteous ſhalbe ſolde for ſiluer, and the poore for ſhoes:</hi> that is to ſay, filthy bribes ſhal be more accounted then mens liues, which are moſt pretious.</p>
+                  <q>
+                     <hi>5.</hi> The Magiſtrate looſeth nothing by deliue<g ref="char:EOLhyphen"/>ring the oppreſſed.</q>
+                  <p>IF he doe it with a ſingle heart (beſide <hi>the te<g ref="char:EOLhyphen"/>ſtimonie of a good conſcience</hi> which <hi>is a conti<g ref="char:EOLhyphen"/>nuall
+<pb n="38" facs="tcp:174759:20"/>feaſt</hi>) he may aſſure him-ſelfe of Gods fauour and bleſſing, and of the ſinguler like<g ref="char:EOLhyphen"/>ing of all Gods people.</p>
+                  <p>
+                     <hi>Ioſias did eate and drinke and proſper,</hi>
+                     <note place="margin">
+                        <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 22.</note> 
+                     <hi>when he executed iudgement and iuſtice, when he iudged the cauſe of the afflicted, and the poore.</hi>
+                  </p>
+                  <p>
+                     <hi>Iob deliuered the poore that cried,</hi>
+                     <note place="margin">
+                        <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 6.</note> 
+                     <hi>&amp; the father<g ref="char:EOLhyphen"/>les, &amp; him that had none to help him, and the bleſſing of him that was ready to periſh, came vppon him.</hi>
+                  </p>
+                  <p>Our ſouereigne Ladie <hi>Queene Elizabeth</hi> hath dealt gratiouſly with manie poore ſuters at the Court, ſhe hath ſpoken comfortablie to them, and procured reſtitution according<g ref="char:EOLhyphen"/>lie. If it be no diſgrace to this noble Ladie which ſitteth vnder the cloth of eſtate, to deli<g ref="char:EOLhyphen"/>uer the oppreſſed, it is no blot to inferiour ma<g ref="char:EOLhyphen"/>giſtrates if they do the like. If the Prince plea<g ref="char:EOLhyphen"/>ſeth God highlie, and winneth the hearts of her ſubiects ſoundlie, for releeuing the op<g ref="char:EOLhyphen"/>preſſed, it is verie certaine, that thoſe Cor<g ref="char:EOLhyphen"/>morants, which grynde the faces of the poore are accurſſed of God, and looſe the hearts of his people. If the Prince ſitteth faſt in the ſeate of her Kingdome for tendering the caſe of the oppreſſed, can they aſſure them-ſelues of ſitting quietlie vnder their vines and figge-trees, which eate bread, baked with the teares of men? It is certaine, they cannot. for (be<g ref="char:EOLhyphen"/>ſides the manifold curſes of God and his peo<g ref="char:EOLhyphen"/>ple) their owne conſciences doe mightelie
+<pb n="39" facs="tcp:174759:20"/>ſting them, and are enemies ynough to tor<g ref="char:EOLhyphen"/>ment them.</p>
+                  <q>
+                     <hi>6.</hi> Oppreſſours ſhall be greeuouſlie puniſhed.</q>
+                  <p>
+                     <hi>CVrſed be he,</hi>
+                     <note place="margin">
+                        <hi>Deu.</hi> 22.17.</note> 
+                     <hi>that remoueth his neighbours marke: and all the people ſhall ſay, Amen.</hi> If they are accurſſed by God, and his people, which remoue the marke of the land, they are more accurſſed, which take awaie houſe and lend.</p>
+                  <p>
+                     <hi>Oppreſſion maketh awiſe man madde.</hi>
+                     <note place="margin">
+                        <hi>Eccle.</hi> 7.</note> Madnes is a greeuous puniſhment: God puniſheth oppreſſion by madnes, one groſſe ſinne, by another.</p>
+                  <p>
+                     <hi>Ye haue builded houſes of hewen ſtone,</hi>
+                     <note place="margin">
+                        <hi>Amos.</hi> 5</note> 
+                     <hi>but yee ſhall not dwell in them: ye haue planted pleaſant vineyards, but yee ſhall not drinke wine of them:</hi> The reaſon of this is ſet downe by Almighty God in the ſame verſe, in theſe words: <hi>your treadings are vpon the poore: &amp; you take from him burthens of wheate,</hi> (that is to ſay, the neceſ<g ref="char:EOLhyphen"/>ſarie reliefe of him and his famility.) If the ta<g ref="char:EOLhyphen"/>king away of burthens of wheat from the poore was ſo great a ſin, the taking waie of arable ground (which by tillage and Gods bleſſing bringeth reliefe to a man and his fa<g ref="char:EOLhyphen"/>mily) is no litle ſinne.</p>
+                  <p>
+                     <hi>They ſhall not mourne for him</hi> (ſaieth God of <hi>Ioachim</hi> the King of <hi>Iuda,</hi> which was a great oppreſſour) <hi>he ſhall be buried as an aſſe is buried,</hi>
+                     <note place="margin">
+                        <hi>Iere.</hi> 22</note>
+                     <pb n="40" facs="tcp:174759:21"/>
+                     <hi>and caſt forth</hi> (as a carrion aboue the ground) <hi>euen without the gates of Ieruſalem. Ioachim</hi> had cloſed himſelfe in <hi>Cedar,</hi> but that was not able to keepe Gods iudgements from him.</p>
+                  <p>
+                     <hi>The ſtone ſhall crie out of the wall,</hi>
+                     <note place="margin">
+                        <hi>
+                           <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ac.</hi> 2.11.</note> 
+                     <hi>and the beame out of the timber ſhall anſwere it, &amp;c.</hi> As if almighty God ſhould ſay, rather then the vile dealings of oppreſſours ſhould not come to light, the ſtone ſhall cry out of the wall, I am built of blood and iniquitie, &amp; the beame out of the Timber ſhall anſwere, I am built likewiſe of blood and iniquitie. If the ſtones and beames of oppreſſours houſes, giue in their euidence (like honeſt Iurates) againſt ſuch houſes, the Oppreſſours muſt prepare themſelues to heare this feareful ſentence pro nounced, by the Lord chiefe iuſtice of hea<g ref="char:EOLhyphen"/>uen and earth againſt them: <hi>woe vnto him that buildeth a towne with blood,</hi>
+                     <note place="margin">
+                        <hi>
+                           <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ac.</hi> 2.12.</note> 
+                     <hi>and erecteth a Citie by iniquitie.</hi>
+                  </p>
+                  <p>
+                     <hi>They which oppreſſe others,</hi>
+                     <note place="margin">
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>g. Epiſt. <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>. <hi>2.</hi>
+                     </note> 
+                     <hi>doe more hurt them ſelues, then thoſe whom they oppreſſe: the ſmart of the oppreſſed hath an end, the ſmart of the Oppreſ<g ref="char:EOLhyphen"/>ſour is euerlaſting: for he heapeth vnto him-ſelfe wrath againſt the day of wrath, and of the declara<g ref="char:EOLhyphen"/>tion of the iuſt iudgement of God.</hi>
+                  </p>
+                  <p>There were neuer any oppreſſours ſo ma<g ref="char:EOLhyphen"/>ny and mighty, but at the length they were met with. Gods iudgements haue feete of wooll, but they haue armes of braſſe: It is long
+<pb n="41" facs="tcp:174759:21"/>God begin, but when he ſtriketh, he pay<g ref="char:EOLhyphen"/>eth home. <hi>Eſay. chap.</hi> 30. <hi>ver.</hi> 14.</p>
+                  <p>
+                     <hi>Wo vnto them that imagine iniquity, &amp; worke wickednes vpon their beds:</hi>
+                     <note place="margin">
+                        <hi>Iere.</hi> 5.</note> 
+                     <hi>when the morning is light, they practiſe it, becauſe their hand hath powre, and they couet fields, and take them by vio<g ref="char:EOLhyphen"/>lence, and houſes, and take them away: ſo they op<g ref="char:EOLhyphen"/>preſſe a man and his heritage: therefore, thus ſaith the Lord: behold, againſt the family haue I deuiſed a plague, whereout ye ſhall not plucke your neckes. Mich.</hi> 2. <hi>ver.</hi> 1.2.3. God be mercifull vnto vs and make vs afraid of his iudgements.</p>
+                  <q>
+                     <hi>7.</hi> Oppreſſours haue no Religion in them.</q>
+                  <p>
+                     <hi>GOd Looked for iudgement,</hi>
+                     <note place="margin">
+                        <hi>Eſay.</hi> 5.7</note> 
+                     <hi>but behold oppreſſi<g ref="char:EOLhyphen"/>on, for righteouſnes but behold a crying. &amp;c.</hi> Iudgement &amp; righteouſnes are the true fruits of Gods religion, therefore oppreſſion is no branch of Gods Religion, and conſequently, the oppreſſour is voyd of all religion.</p>
+                  <p>
+                     <hi>Doe not all the workers of iniquitie know that they eate vp my people as they eate bread? they call not vppon the Lord: Pſal.</hi> 14. <hi>ver.</hi> 4. Opperſſours call not vppon the Lord, therefore they are void of religion: for inuocation is a principall and neceſſarie fruit of religion. If the oppreſ<g ref="char:EOLhyphen"/>ſours ſay, that they ſtretch out their hands and make manie prayers, I graunt they doe ſo, but Almightie God giueth them this anſweare: <hi>I will hide mine eyes from you, I will not heare:</hi>
+                     <note place="margin">
+                        <hi>Eſay.</hi> 1.1</note> 
+                     <hi>for
+<pb n="42" facs="tcp:174759:22"/>your handes are full of blood.</hi>
+                  </p>
+                  <p>
+                     <hi>I will be a ſwift witneſſe againſt thoſe, that wrongfully keepe back the hirelings wages, and vex the widow,</hi>
+                     <note place="margin">
+                        <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>. 3.4.</note> 
+                     <hi>and fatherles, and oppreſſe the ſtranger, and feare not me, ſaith the Lord of hoſts, &amp;c.</hi> They which oppreſſe others feare not God,<note place="margin">
+                        <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>. 3.5.</note> therfore they are voyd of Religion. If they ſay they feare God, they deſerue no credite, becauſe their doings confute their ſpeech. A good tree bringeth forth good fruits, and a iuſtifying faith appreereth by good workes.</p>
+                  <p>
+                     <hi>The former gouernours did burthen the people,</hi>
+                     <note place="margin">
+                        <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 5.15.</note> 
+                     <hi>but ſo did not I</hi> (ſaith <hi>Nehemiah</hi>) <hi>becauſe of the feare of god.</hi> If <hi>Nehemiah</hi> did neither oppreſſe nor deale hardly, becauſe he feared God, it is manifeſt that oppreſſours feare not God, and therefore are voyd of religion.</p>
+                  <p>
+                     <hi>When he</hi> (that is <hi>Ioſias</hi>) <hi>iudged the cauſe of the afflicted, and the poore, he proſpered: was not this, becauſe he knew me? ſaith the Lord: But thine eyes and thine heart</hi> (he ſpeaketh to <hi>Ioachim</hi> the King of <hi>Iuda</hi>) <hi>are but onely for thy couetouſnes and for to ſhed innocent blood, and for oppreſſion &amp;c. Ioſias</hi> was a ſinguler defence to the op<g ref="char:EOLhyphen"/>preſſed, becauſe he did know and feare God: <hi>Ioachim</hi> was a notable oppreſſour, becauſe he did neither know, nor feare God, that is to ſay, becauſe he was voyd of Gods religion.</p>
+                  <p>This which I haue ſet downe againſt op<g ref="char:EOLhyphen"/>preſſion, may ſerue for oppreſſours to looke
+<pb n="43" facs="tcp:174759:22"/>vpon, &amp; to reforme themſelues by. If it worke their good, it is happy for them: If it doe not, let them remember that dye they muſt, and that after death they ſhall haue a fearefull iudgement. The beſt aduiſe that I can giue to them which are oppreſſed, is that they deſire the magiſtrate, to be their defence. If by this ordinary meanes, they cannot compaſſe their owne, they muſt patiently beare iniuries, and commit their cauſe to almighty God,<note place="margin">
+                        <hi>Pſal.</hi> 56.</note> who hath their flittings in his regi<g ref="char:EOLhyphen"/>ſter, and their teares in his bot<g ref="char:EOLhyphen"/>tell, and will be ſurely, but yet iuſtly, reuenged of their Oppreſſours.</p>
+                  <epigraph>
+                     <q>
+                        <g ref="char:V">Ʋ</g>eritas &amp; dulcis eſt, &amp; amara. Quando dulcis eſt, parcit: quando amara, curat. <bibl>Aug. Epiſt. <hi>211.</hi> ad Romulum.</bibl>
+                     </q>
+                  </epigraph>
+                  <pb facs="tcp:174759:23"/>
+                  <pb facs="tcp:174759:23"/>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
